@@ -1,0 +1,5 @@
+Add coming soon landing page
+
+- Maroon background
+- Header with navigation (Videos, Fliers, Events, Contact)
+- Responsive hero text and styles
